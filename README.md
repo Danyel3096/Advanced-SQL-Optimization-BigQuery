@@ -25,4 +25,4 @@ En este nivel, he implementado soluciones que van más allá del CRUD básico:
 
 ## 🎓 Certificación y Validación
 Este proyecto valida mis competencias en SQL de nivel avanzado, certificado por Kaggle.
-* [**Ver mi Certificado Oficial de Advanced SQL aquí**])(https://www.kaggle.com/learn/certification/danielmr3096/advanced-sql)
+* [**Ver mi Certificado Oficial de Advanced SQL aquí**](https://www.kaggle.com/learn/certification/danielmr3096/advanced-sql)
